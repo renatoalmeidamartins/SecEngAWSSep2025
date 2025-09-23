@@ -21,3 +21,4 @@
 - [IAM Roles Anywhere](https://docs.aws.amazon.com/rolesanywhere/latest/userguide/introduction.html)
 - [Condições disponíveis em políticas](https://docs.aws.amazon.com/IAM/latest/UserGuide/reference_policies_elements_condition.html)
 - [Exemplo de uso de política de sessão](https://aws.amazon.com/blogs/security/create-fine-grained-session-permissions-using-iam-managed-policies/)
+- [Simulador de políticas de IAM](https://policysim.aws.amazon.com/home/index.jsp)
