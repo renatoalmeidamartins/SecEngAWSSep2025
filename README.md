@@ -12,3 +12,4 @@
 - [OWASP, boa ferramenta de código aberto para modelagem de ameaças](https://owasp.org/www-project-threat-dragon/)
 - [Endpoints e quotas de serviços AWS](https://docs.aws.amazon.com/general/latest/gr/aws-service-information.html)
 - [Assinando pedidos para a AWS (SIGv4)](https://docs.aws.amazon.com/AmazonS3/latest/API/sig-v4-authenticating-requests.html)
+- [Gerador de politicas AWS](https://awspolicygen.s3.amazonaws.com/policygen.html)
