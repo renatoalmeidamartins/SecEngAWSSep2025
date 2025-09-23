@@ -32,3 +32,4 @@
 - [Sequencia de avaliação de políticas](https://docs.aws.amazon.com/IAM/latest/UserGuide/reference_policies_evaluation-logic.html)
 - [Catálogo de controles do Control Tower](https://docs.aws.amazon.com/controltower/latest/controlreference/controls-reference.html)
 - [Migrando de landing zone legadas para Control tower](https://docs.aws.amazon.com/prescriptive-guidance/latest/aws-control-tower/introduction.html)
+- [Lancamento dos "planos" do Cognito](https://aws.amazon.com/blogs/aws/improve-your-app-authentication-workflow-with-new-amazon-cognito-features/)
