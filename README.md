@@ -16,3 +16,5 @@
 - Serviços gratuitos na AWS:
   - [Antes de 15 de julho de 2025](https://docs.aws.amazon.com/awsaccountbilling/latest/aboutv2/billing-free-tier.html)
   - [Depois de 15 de julho de 2025](https://docs.aws.amazon.com/awsaccountbilling/latest/aboutv2/free-tier.html)
+- [Boas práticas com usuário root](https://docs.aws.amazon.com/IAM/latest/UserGuide/root-user-best-practices.html)
+- [Atividades que só podem ser feitas pelo uusário root](https://docs.aws.amazon.com/IAM/latest/UserGuide/id_root-user.html#root-user-tasks)
