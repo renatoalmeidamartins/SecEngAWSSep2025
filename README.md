@@ -22,3 +22,7 @@
 - [Condições disponíveis em políticas](https://docs.aws.amazon.com/IAM/latest/UserGuide/reference_policies_elements_condition.html)
 - [Exemplo de uso de política de sessão](https://aws.amazon.com/blogs/security/create-fine-grained-session-permissions-using-iam-managed-policies/)
 - [Simulador de políticas de IAM](https://policysim.aws.amazon.com/home/index.jsp)
+- Limites de permissão:
+  - [Documentação geral](https://docs.aws.amazon.com/IAM/latest/UserGuide/access_policies_boundaries.html#access_policies_boundaries-delegate)
+  - [Exemplos de uso](https://aws.amazon.com/blogs/security/when-and-where-to-use-iam-permissions-boundaries/)
+  - [Exemplo de desenvolvedores de aplicações criando roles](https://github.com/aws-samples/example-permissions-boundary)
