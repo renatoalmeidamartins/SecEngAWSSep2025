@@ -13,3 +13,6 @@
 - [Endpoints e quotas de serviços AWS](https://docs.aws.amazon.com/general/latest/gr/aws-service-information.html)
 - [Assinando pedidos para a AWS (SIGv4)](https://docs.aws.amazon.com/AmazonS3/latest/API/sig-v4-authenticating-requests.html)
 - [Gerador de politicas AWS](https://awspolicygen.s3.amazonaws.com/policygen.html)
+- Serviços gratuitos na AWS:
+  - [Antes de 15 de julho de 2025](https://docs.aws.amazon.com/awsaccountbilling/latest/aboutv2/billing-free-tier.html)
+  - [Depois de 15 de julho de 2025](https://docs.aws.amazon.com/awsaccountbilling/latest/aboutv2/free-tier.html)
