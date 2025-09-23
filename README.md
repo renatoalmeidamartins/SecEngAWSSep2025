@@ -8,3 +8,4 @@
 
 ### Links do dia 1
 - [Parodia de My shot, com Lambda reduzindo seu ops](https://www.youtube.com/watch?v=zMua0cuhFnc)
+- [Boas práticas para criação de OUs em umna organização](https://docs.aws.amazon.com/organizations/latest/userguide/orgs_manage_ous_best_practices.html)
