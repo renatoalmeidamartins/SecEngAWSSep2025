@@ -26,3 +26,5 @@
   - [Documentação geral](https://docs.aws.amazon.com/IAM/latest/UserGuide/access_policies_boundaries.html#access_policies_boundaries-delegate)
   - [Exemplos de uso](https://aws.amazon.com/blogs/security/when-and-where-to-use-iam-permissions-boundaries/)
   - [Exemplo de desenvolvedores de aplicações criando roles](https://github.com/aws-samples/example-permissions-boundary)
+- [Cloudtrail lake](https://aws.amazon.com/blogs/mt/announcing-aws-cloudtrail-lake-a-managed-audit-and-security-lake/)
+- [Apenas root user pode ativar MFA delete](https://docs.aws.amazon.com/AmazonS3/latest/userguide/MultiFactorAuthenticationDelete.html)
