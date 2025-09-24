@@ -40,4 +40,5 @@
 - [Chaves KMS multi-região](https://docs.aws.amazon.com/kms/latest/developerguide/mrk-how-it-works.html)
 - [Criação de grants de KMS](https://docs.aws.amazon.com/kms/latest/developerguide/grants.html)
 - [Comando create-grant na CLI de KMS](https://docs.aws.amazon.com/cli/latest/reference/kms/create-grant.html)
-- 
+- [Rotação manual de chave, atenção à vantagem do uso de alias](https://docs.aws.amazon.com/kms/latest/developerguide/rotate-keys-manually.html)
+- [Rotação automática de chave, veja que o id não muda](https://docs.aws.amazon.com/kms/latest/developerguide/rotate-keys.html)
