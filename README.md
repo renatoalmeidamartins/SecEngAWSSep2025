@@ -45,3 +45,5 @@
 - Armazenamento externo de chaves:
   - [Anúncio do início do suporte em 2022](https://aws.amazon.com/blogs/aws/announcing-aws-kms-external-key-store-xks/)
   - [Detalhes do funcionamento](https://docs.aws.amazon.com/kms/latest/developerguide/keystore-external.html)
+- [FIPS 140-2, padrão para dispositivos criptográficos publicado pelo NIST](https://nvlpubs.nist.gov/nistpubs/FIPS/NIST.FIPS.140-2.pdf)
+- [KMS "puro" também é FIPS 140-2 nível 3 (antes privilégio do CloudHSM)](https://aws.amazon.com/blogs/security/aws-kms-now-fips-140-2-level-3-what-does-this-mean-for-you/)
