@@ -59,3 +59,4 @@
 - Fine-Grained access control no DynamoDB
   - [Artigo original](https://aws.amazon.com/blogs/aws/fine-grained-access-control-for-amazon-dynamodb/)
   - [Documentação atual](https://docs.aws.amazon.com/amazondynamodb/latest/developerguide/specifying-conditions.html)
+- [Grupos de regras com assinatura de ameaças gerenciada pela AWS](https://docs.aws.amazon.com/network-firewall/latest/developerguide/aws-managed-rule-groups-threat-signature.html)
