@@ -52,3 +52,4 @@
 - [Criação de tipos de dados "customizados" no Macie](https://docs.aws.amazon.com/macie/latest/user/cdis-create.html)
 - [Exemplos do uso de S3 Server-Side-Encryption, com chave fornecida pelo cliente](https://docs.aws.amazon.com/AmazonS3/latest/userguide/ServerSideEncryptionCustomerKeys.html)
 - [URLs pre-assinadas no S3](https://docs.aws.amazon.com/AmazonS3/latest/userguide/ShareObjectPreSignedURL.html)
+- [Anuncio de replicação para multiplos buckets/regiões no S3](https://aws.amazon.com/blogs/aws/new-amazon-s3-replication-adds-support-for-multiple-destination-buckets/)
