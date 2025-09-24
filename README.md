@@ -50,3 +50,4 @@
 - [Funções de rotação de segredos com Secrets Manager](https://docs.aws.amazon.com/secretsmanager/latest/userguide/reference_available-rotation-templates.html)
 - [Uso de bucket keys do KMS, no S3, para reduzir custo de consumo de chaves de KMS em objetos no S3, em até 99%](https://aws.amazon.com/blogs/storage/reducing-aws-key-management-service-costs-by-up-to-99-with-s3-bucket-keys/)
 - [Criação de tipos de dados "customizados" no Macie](https://docs.aws.amazon.com/macie/latest/user/cdis-create.html)
+- [Exemplos do uso de S3 Server-Side-Encryption, com chave fornecida pelo cliente](https://docs.aws.amazon.com/AmazonS3/latest/userguide/ServerSideEncryptionCustomerKeys.html)
