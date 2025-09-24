@@ -37,3 +37,4 @@
 - [Configuração do Identity Center com Entra](https://docs.aws.amazon.com/singlesignon/latest/userguide/idp-microsoft-entra.html)
 - [Exemplo de como uma Managed Identity do Azure - conta associável a, entre outros, VMs - pode assumir roles na AWS](https://aws.amazon.com/blogs/security/how-to-access-aws-resources-from-microsoft-entra-id-tenants-using-aws-security-token-service/)
 - [Uso do SDK de criptografia em Java](https://github.com/aws/amazon-s3-encryption-client-java)
+- [Chaves KMS multi-região](https://docs.aws.amazon.com/kms/latest/developerguide/mrk-how-it-works.html)
