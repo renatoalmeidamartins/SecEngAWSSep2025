@@ -56,3 +56,6 @@
 - ["Convertendo" um banco RDS não-criptografado para criptografado (utiliza snapshot e recupera em uma instância nova)](https://docs.aws.amazon.com/prescriptive-guidance/latest/patterns/encrypt-an-existing-amazon-rds-for-postgresql-db-instance.html)
 - [Criptografia em trânsito em RDS é possível via option groups](https://aws.amazon.com/blogs/database/customizing-security-parameters-on-amazon-rds-for-sql-server/)
 - [Exemplo de política para exigir acesso HTTPS em bucket S3, se aplicaria de forma similar a Dynamo](https://docs.aws.amazon.com/AmazonS3/latest/userguide/example-bucket-policies.html#example-bucket-policies-HTTP-HTTPS)
+- Fine-Grained access control no DynamoDB
+  - [Artigo original](https://aws.amazon.com/blogs/aws/fine-grained-access-control-for-amazon-dynamodb/)
+  - [Documentação atual](https://docs.aws.amazon.com/amazondynamodb/latest/developerguide/specifying-conditions.html)
