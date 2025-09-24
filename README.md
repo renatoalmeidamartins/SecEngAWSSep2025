@@ -33,3 +33,6 @@
 - [Catálogo de controles do Control Tower](https://docs.aws.amazon.com/controltower/latest/controlreference/controls-reference.html)
 - [Migrando de landing zone legadas para Control tower](https://docs.aws.amazon.com/prescriptive-guidance/latest/aws-control-tower/introduction.html)
 - [Lancamento dos "planos" do Cognito](https://aws.amazon.com/blogs/aws/improve-your-app-authentication-workflow-with-new-amazon-cognito-features/)
+### Links do dia 2
+- [Configuração do Identity Center com Entra](https://docs.aws.amazon.com/singlesignon/latest/userguide/idp-microsoft-entra.html)
+- [Exemplo de como uma Managed Identity do Azure - conta associável a, entre outros, VMs - pode assumir roles na AWS](https://aws.amazon.com/blogs/security/how-to-access-aws-resources-from-microsoft-entra-id-tenants-using-aws-security-token-service/)
