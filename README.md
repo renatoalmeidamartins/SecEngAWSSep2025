@@ -64,3 +64,4 @@
 - [Definindo políticas no bucket para acesso do Cloudfront - OAC, atual x OAI, legado](https://docs.aws.amazon.com/AmazonCloudFront/latest/DeveloperGuide/private-content-restricting-access-to-s3.html)
 - [Shuffle sharding em DNS](https://aws.amazon.com/blogs/architecture/shuffle-sharding-massive-and-magical-fault-isolation/)
 - [Políticas de roteamento do Route 53](https://docs.aws.amazon.com/Route53/latest/DeveloperGuide/routing-policy.html)
+- [O pequeno Bobby tables, exemplo clássico de injeção de SQL](https://xkcd.com/327/)
