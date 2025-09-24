@@ -49,3 +49,4 @@
 - [KMS "puro" também é FIPS 140-2 nível 3 (antes privilégio do CloudHSM)](https://aws.amazon.com/blogs/security/aws-kms-now-fips-140-2-level-3-what-does-this-mean-for-you/)
 - [Funções de rotação de segredos com Secrets Manager](https://docs.aws.amazon.com/secretsmanager/latest/userguide/reference_available-rotation-templates.html)
 - [Uso de bucket keys do KMS, no S3, para reduzir custo de consumo de chaves de KMS em objetos no S3, em até 99%](https://aws.amazon.com/blogs/storage/reducing-aws-key-management-service-costs-by-up-to-99-with-s3-bucket-keys/)
+- [Criação de tipos de dados "customizados" no Macie](https://docs.aws.amazon.com/macie/latest/user/cdis-create.html)
