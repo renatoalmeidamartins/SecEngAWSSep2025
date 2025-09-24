@@ -65,3 +65,7 @@
 - [Shuffle sharding em DNS](https://aws.amazon.com/blogs/architecture/shuffle-sharding-massive-and-magical-fault-isolation/)
 - [Políticas de roteamento do Route 53](https://docs.aws.amazon.com/Route53/latest/DeveloperGuide/routing-policy.html)
 - [O pequeno Bobby tables, exemplo clássico de injeção de SQL](https://xkcd.com/327/)
+- Infos de Shield
+  - [Recursos principais do Shield Advanced](https://docs.aws.amazon.com/waf/latest/developerguide/ddos-advanced-summary-capabilities.html)
+  - [Grupos de proteção no Shield](https://docs.aws.amazon.com/waf/latest/developerguide/ddos-protection-groups.html)
+  - [Formas de mitigação usadas no Shield](https://docs.aws.amazon.com/waf/latest/developerguide/ddos-event-mitigation.html)
