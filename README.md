@@ -61,3 +61,4 @@
   - [Documentação atual](https://docs.aws.amazon.com/amazondynamodb/latest/developerguide/specifying-conditions.html)
 - [Grupos de regras com assinatura de ameaças gerenciada pela AWS](https://docs.aws.amazon.com/network-firewall/latest/developerguide/aws-managed-rule-groups-threat-signature.html)
 - [Anúncio do Gateway Load Balancer - atenção aos parceiros suportados já em 2020](https://aws.amazon.com/blogs/aws/introducing-aws-gateway-load-balancer-easy-deployment-scalability-and-high-availability-for-partner-appliances/)
+- [Definindo políticas no bucket para acesso do Cloudfront - OAC, atual x OAI, legado](https://docs.aws.amazon.com/AmazonCloudFront/latest/DeveloperGuide/private-content-restricting-access-to-s3.html)
