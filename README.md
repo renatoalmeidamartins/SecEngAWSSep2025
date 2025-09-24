@@ -53,3 +53,5 @@
 - [Exemplos do uso de S3 Server-Side-Encryption, com chave fornecida pelo cliente](https://docs.aws.amazon.com/AmazonS3/latest/userguide/ServerSideEncryptionCustomerKeys.html)
 - [URLs pre-assinadas no S3](https://docs.aws.amazon.com/AmazonS3/latest/userguide/ShareObjectPreSignedURL.html)
 - [Anuncio de replicação para multiplos buckets/regiões no S3](https://aws.amazon.com/blogs/aws/new-amazon-s3-replication-adds-support-for-multiple-destination-buckets/)
+- ["Convertendo" um banco RDS não-criptografado para criptografado (utiliza snapshot e recupera em uma instância nova)](https://docs.aws.amazon.com/prescriptive-guidance/latest/patterns/encrypt-an-existing-amazon-rds-for-postgresql-db-instance.html)
+- [Criptografia em trânsito em RDS é possível via option groups](https://aws.amazon.com/blogs/database/customizing-security-parameters-on-amazon-rds-for-sql-server/)
