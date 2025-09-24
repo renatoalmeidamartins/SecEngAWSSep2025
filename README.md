@@ -42,3 +42,6 @@
 - [Comando create-grant na CLI de KMS](https://docs.aws.amazon.com/cli/latest/reference/kms/create-grant.html)
 - [Rotação manual de chave, atenção à vantagem do uso de alias](https://docs.aws.amazon.com/kms/latest/developerguide/rotate-keys-manually.html)
 - [Rotação automática de chave, veja que o id não muda](https://docs.aws.amazon.com/kms/latest/developerguide/rotate-keys.html)
+- Armazenamento externo de chaves:
+  - [Anúncio do início do suporte em 2022](https://aws.amazon.com/blogs/aws/announcing-aws-kms-external-key-store-xks/)
+  - [Detalhes do funcionamento](https://docs.aws.amazon.com/kms/latest/developerguide/keystore-external.html)
