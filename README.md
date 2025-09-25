@@ -16,6 +16,7 @@
 
 ## Exemplos de soluções para automação de segurança
 As soluções abaixo têm desenho de arquitetura, repositório com o que implementam e guia de implantação. Merecem ser exploradas:
+- **[Excelente repositório com melhores práticas para diversos serviços de segurança da AWS](https://aws.github.io/aws-security-services-best-practices/)**
 - [Orquestrador de análise forense de instâncias](https://aws.amazon.com/solutions/guidance/automated-forensics-orchestrator-for-amazon-ec2-and-eks/)
 - [Solução de exemplo para resposta automatizada a eventos de segurança](https://aws.amazon.com/solutions/implementations/automated-security-response-on-aws/) - vale a pena olhar o código [aqui](https://github.com/aws-solutions/automated-security-response-on-aws/)
 - [Centralização de logs usando OpenSearch - solução de exemplo](https://aws.amazon.com/solutions/implementations/centralized-logging-with-opensearch)
@@ -104,7 +105,6 @@ Os links abaixo são funcionalidades, recursos e maior profundidade sobre os tó
 - [Anuncio do preview do Security Lake](https://aws.amazon.com/about-aws/whats-new/2022/11/amazon-security-lake-preview/)
 - [Queries pre-definidas no Athena, para consultas relacionadas a segurança - requer o deploy de um modelo do CloudFormation](https://docs.aws.amazon.com/vpc/latest/userguide/flow-logs-run-athena-query.html)
 - [Scan de imagens de container no ECR - basic usa Clair, e enhanced usa Inspector](https://docs.aws.amazon.com/AmazonECR/latest/userguide/image-scanning.html)
-- **[Excelente repositório com melhores práticas para diversos serviços de segurança da AWS]**(https://aws.github.io/aws-security-services-best-practices/)
 - [Inspector faz deep scanning de instâncias EC2](https://aws.amazon.com/about-aws/whats-new/2023/04/amazon-inspector-deep-inspection-ec2-instances/)
 - [Anúncio de varredura de malware em volumes EBS via Guard Duty](https://aws.amazon.com/blogs/aws/new-for-amazon-guardduty-malware-detection-for-amazon-ebs-volumes/)
 - [Formatos suportados para listas confiáveis e não-confiáveis no Guard Duty](https://docs.aws.amazon.com/guardduty/latest/ug/guardduty_upload-lists.html)
