@@ -74,3 +74,9 @@
 - [Apresentação sobre o Firewall manager](https://pages.awscloud.com/rs/112-TZM-766/images/2020_0525-SID_Slide-Deck.pdf)
 - [Otimizando o uso do Firewall Manager, especificamente com regras WAF](https://aws.amazon.com/blogs/security/aws-firewall-manager-retrofitting-harmonizing-central-security-with-application-team-flexibility/)
 - [Anúncio do Firewall Manager em 2018, atenção pois hoje suporta muito mais recursos](https://aws.amazon.com/blogs/aws/aws-firewall-manager-central-management-for-your-web-application-portfolio/)
+
+### Links do dia 3
+- [Conformance packs do AWS Config](https://docs.aws.amazon.com/config/latest/developerguide/conformancepack-sample-templates.html)
+- [Formatos de arquivos suportados no Macie](https://docs.aws.amazon.com/macie/latest/user/discovery-supported-storage.html)
+- [Criação da role necessária para execução de automações](https://docs.aws.amazon.com/systems-manager/latest/userguide/automation-setup-iam.html)
+- [Ações suportadas em documentos de automação do Systems Manager](https://docs.aws.amazon.com/systems-manager/latest/userguide/automation-actions.html)
