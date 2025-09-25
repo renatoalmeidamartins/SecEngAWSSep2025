@@ -1,12 +1,14 @@
 # SecEngAWSSep2025
 
-
 ## Avaliação do curso
 - Acesse [aws.training](https://aws.training)
 - Clique em  "sign in" e faça log in com a mesma conta usada para acessar o material e laboratório
 - Vá no topo, à direita, em "Minha Conta", e então "Transcript", clique na seção de "Arquivado" (acesso direto nesta URL https://www.aws.training/Account/Transcript/Archived)
 - Deve estar aí um botão para avaliar o curso.
 
+## Meus dados de contato
+- [perfil do Linkedin](https://www.linkedin.com/in/renatodealmeidamartins/)
+- Email: renatoalmeidamartins@gmail.com
 ## Informações sobre certificação
 - [Todas as certificações da AWS](https://aws.amazon.com/certification/)
 - [Planos do Skill Builder](https://skillbuilder.aws/subscriptions)
