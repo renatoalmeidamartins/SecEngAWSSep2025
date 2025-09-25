@@ -97,3 +97,5 @@
 - [Centralização de logs usando OpenSearch - solução de exemplo](https://aws.amazon.com/solutions/implementations/centralized-logging-with-opensearch)
 - [Inspeção de tráfego sob demanda - em resposta a um evento do Guard Duty](https://aws.amazon.com/blogs/networking-and-content-delivery/using-vpc-traffic-mirroring-to-monitor-and-secure-your-aws-infrastructure/)
 - [Scan de imagens de container no ECR - basic usa Clair, e enhanced usa Inspector](https://docs.aws.amazon.com/AmazonECR/latest/userguide/image-scanning.html)
+- **[Excelente repositório com melhores práticas para diversos serviços de segurança da AWS]**(https://aws.github.io/aws-security-services-best-practices/)
+- [Inspector faz deep scanning de instâncias EC2](https://aws.amazon.com/about-aws/whats-new/2023/04/amazon-inspector-deep-inspection-ec2-instances/)
