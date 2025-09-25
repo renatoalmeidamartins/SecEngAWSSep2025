@@ -7,6 +7,10 @@
 - Vá no topo, à direita, em "Minha Conta", e então "Transcript", clique na seção de "Arquivado" (acesso direto nesta URL https://www.aws.training/Account/Transcript/Archived)
 - Deve estar aí um botão para avaliar o curso.
 
+## Informações sobre certificação
+- [Todas as certificações da AWS](https://aws.amazon.com/certification/)
+- [Planos do Skill Builder](https://skillbuilder.aws/subscriptions)
+
 ## Links de material didático e acesso às classes
 - [Link para entrada na reunião](https://awsvirtual.webex.com/awsvirtual/j.php?MTID=m8fb442b63a0890097a0b13f90bbd7104)
 - [Acesso ao ambiente de laboratório](https://us-east-1.student.classrooms.aws.training/class/ilt%23gzaKY6Bgic7HXmgfzNVnzC)
