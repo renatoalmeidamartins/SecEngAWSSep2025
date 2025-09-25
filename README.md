@@ -96,3 +96,4 @@
 - [Queries pre-definidas no Athena, para consultas relacionadas a segurança - requer o deploy de um modelo do CloudFormation](https://docs.aws.amazon.com/vpc/latest/userguide/flow-logs-run-athena-query.html)
 - [Centralização de logs usando OpenSearch - solução de exemplo](https://aws.amazon.com/solutions/implementations/centralized-logging-with-opensearch)
 - [Inspeção de tráfego sob demanda - em resposta a um evento do Guard Duty](https://aws.amazon.com/blogs/networking-and-content-delivery/using-vpc-traffic-mirroring-to-monitor-and-secure-your-aws-infrastructure/)
+- [Scan de imagens de container no ECR - basic usa Clair, e enhanced usa Inspector](https://docs.aws.amazon.com/AmazonECR/latest/userguide/image-scanning.html)
