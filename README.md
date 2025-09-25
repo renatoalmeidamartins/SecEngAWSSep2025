@@ -80,3 +80,6 @@
 - [Formatos de arquivos suportados no Macie](https://docs.aws.amazon.com/macie/latest/user/discovery-supported-storage.html)
 - [Criação da role necessária para execução de automações](https://docs.aws.amazon.com/systems-manager/latest/userguide/automation-setup-iam.html)
 - [Ações suportadas em documentos de automação do Systems Manager](https://docs.aws.amazon.com/systems-manager/latest/userguide/automation-actions.html)
+- [Anúncio do suporte de regras de AWS Config usando Guard como linguagem](https://aws.amazon.com/blogs/mt/announcing-aws-config-custom-rules-using-guard-custom-policy/)
+- [Repo com vários artefatos de doc e exemplos associados a Guard](https://github.com/aws-cloudformation/cloudformation-guard)
+- [Repo com diversas regras de Guard definidas](https://github.com/aws-cloudformation/aws-guard-rules-registry)
