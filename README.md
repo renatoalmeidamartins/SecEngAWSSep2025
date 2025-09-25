@@ -1,6 +1,7 @@
 # SecEngAWSSep2025
 
-## Links de material didático
+## Links de material didático e acesso às classes
+- [Link para entrada na reunião](https://awsvirtual.webex.com/awsvirtual/j.php?MTID=m8fb442b63a0890097a0b13f90bbd7104)
 - [Acesso ao ambiente de laboratório](https://us-east-1.student.classrooms.aws.training/class/ilt%23gzaKY6Bgic7HXmgfzNVnzC)
 - [Skill builder](https://skillbuilder.aws/learn)
 - [Security Fundamentals](https://skillbuilder.aws/learn/S2N5PM41ZK/aws-security-fundamentals-second-edition/E71QQGTCRZ), curso gratuito no Skill Builder, listado como pre-req do curso
