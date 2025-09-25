@@ -83,3 +83,5 @@
 - [Anúncio do suporte de regras de AWS Config usando Guard como linguagem](https://aws.amazon.com/blogs/mt/announcing-aws-config-custom-rules-using-guard-custom-policy/)
 - [Repo com vários artefatos de doc e exemplos associados a Guard](https://github.com/aws-cloudformation/cloudformation-guard)
 - [Repo com diversas regras de Guard definidas](https://github.com/aws-cloudformation/aws-guard-rules-registry)
+- [Usando EventBridge para filtrar eventos originados no GuardDuty](https://docs.aws.amazon.com/guardduty/latest/ug/guardduty_findings_eventbridge.html)
+- [Anuncio do suporte de eventos de parceiros integrados ao EventBridge](https://aws.amazon.com/blogs/aws/amazon-eventbridge-event-driven-aws-integration-for-your-saas-applications/)
