@@ -99,3 +99,4 @@
 - [Scan de imagens de container no ECR - basic usa Clair, e enhanced usa Inspector](https://docs.aws.amazon.com/AmazonECR/latest/userguide/image-scanning.html)
 - **[Excelente repositório com melhores práticas para diversos serviços de segurança da AWS]**(https://aws.github.io/aws-security-services-best-practices/)
 - [Inspector faz deep scanning de instâncias EC2](https://aws.amazon.com/about-aws/whats-new/2023/04/amazon-inspector-deep-inspection-ec2-instances/)
+- [Solução de exemplo para resposta automatizada a eventos de segurança](https://aws.amazon.com/solutions/implementations/automated-security-response-on-aws/) - vale a pena olhar o código [aqui](https://github.com/aws-solutions/automated-security-response-on-aws/)
