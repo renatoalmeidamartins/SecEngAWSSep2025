@@ -70,3 +70,7 @@
   - [Recursos principais do Shield Advanced](https://docs.aws.amazon.com/waf/latest/developerguide/ddos-advanced-summary-capabilities.html)
   - [Grupos de proteção no Shield](https://docs.aws.amazon.com/waf/latest/developerguide/ddos-protection-groups.html)
   - [Formas de mitigação usadas no Shield](https://docs.aws.amazon.com/waf/latest/developerguide/ddos-event-mitigation.html)
+- [Anúncio do Network Firewall](https://aws.amazon.com/blogs/aws/aws-network-firewall-new-managed-firewall-service-in-vpc/)
+- [Apresentação sobre o Firewall manager](https://pages.awscloud.com/rs/112-TZM-766/images/2020_0525-SID_Slide-Deck.pdf)
+- [Otimizando o uso do Firewall Manager, especificamente com regras WAF](https://aws.amazon.com/blogs/security/aws-firewall-manager-retrofitting-harmonizing-central-security-with-application-team-flexibility/)
+- [Anúncio do Firewall Manager em 2018, atenção pois hoje suporta muito mais recursos](https://aws.amazon.com/blogs/aws/aws-firewall-manager-central-management-for-your-web-application-portfolio/)
