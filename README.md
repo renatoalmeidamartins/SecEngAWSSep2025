@@ -14,6 +14,13 @@
 - [Security Fundamentals](https://skillbuilder.aws/learn/S2N5PM41ZK/aws-security-fundamentals-second-edition/E71QQGTCRZ), curso gratuito no Skill Builder, listado como pre-req do curso
 - [Catálogo de cursos AWS ministrador por instrutor](https://releases.awstc.com/)
 
+## Exemplos de soluções para automação de segurança
+As soluções abaixo têm desenho de arquitetura, repositório com o que implementam e guia de implantação. Merecem ser exploradas:
+- [Orquestrador de análise forense de instâncias](https://aws.amazon.com/solutions/guidance/automated-forensics-orchestrator-for-amazon-ec2-and-eks/)
+- [Solução de exemplo para resposta automatizada a eventos de segurança](https://aws.amazon.com/solutions/implementations/automated-security-response-on-aws/) - vale a pena olhar o código [aqui](https://github.com/aws-solutions/automated-security-response-on-aws/)
+- [Centralização de logs usando OpenSearch - solução de exemplo](https://aws.amazon.com/solutions/implementations/centralized-logging-with-opensearch)
+- [Inspeção de tráfego sob demanda - em resposta a um evento do Guard Duty](https://aws.amazon.com/blogs/networking-and-content-delivery/using-vpc-traffic-mirroring-to-monitor-and-secure-your-aws-infrastructure/)
+
 ### Links do dia 1
 - [Parodia de My shot, com Lambda reduzindo seu ops](https://www.youtube.com/watch?v=zMua0cuhFnc)
 - [Boas práticas para criação de OUs em umna organização](https://docs.aws.amazon.com/organizations/latest/userguide/orgs_manage_ous_best_practices.html)
@@ -94,11 +101,10 @@
 - [Anuncio do suporte de eventos de parceiros integrados ao EventBridge](https://aws.amazon.com/blogs/aws/amazon-eventbridge-event-driven-aws-integration-for-your-saas-applications/)
 - [Anuncio do preview do Security Lake](https://aws.amazon.com/about-aws/whats-new/2022/11/amazon-security-lake-preview/)
 - [Queries pre-definidas no Athena, para consultas relacionadas a segurança - requer o deploy de um modelo do CloudFormation](https://docs.aws.amazon.com/vpc/latest/userguide/flow-logs-run-athena-query.html)
-- [Centralização de logs usando OpenSearch - solução de exemplo](https://aws.amazon.com/solutions/implementations/centralized-logging-with-opensearch)
-- [Inspeção de tráfego sob demanda - em resposta a um evento do Guard Duty](https://aws.amazon.com/blogs/networking-and-content-delivery/using-vpc-traffic-mirroring-to-monitor-and-secure-your-aws-infrastructure/)
 - [Scan de imagens de container no ECR - basic usa Clair, e enhanced usa Inspector](https://docs.aws.amazon.com/AmazonECR/latest/userguide/image-scanning.html)
 - **[Excelente repositório com melhores práticas para diversos serviços de segurança da AWS]**(https://aws.github.io/aws-security-services-best-practices/)
 - [Inspector faz deep scanning de instâncias EC2](https://aws.amazon.com/about-aws/whats-new/2023/04/amazon-inspector-deep-inspection-ec2-instances/)
-- [Solução de exemplo para resposta automatizada a eventos de segurança](https://aws.amazon.com/solutions/implementations/automated-security-response-on-aws/) - vale a pena olhar o código [aqui](https://github.com/aws-solutions/automated-security-response-on-aws/)
 - [Anúncio de varredura de malware em volumes EBS via Guard Duty](https://aws.amazon.com/blogs/aws/new-for-amazon-guardduty-malware-detection-for-amazon-ebs-volumes/)
 - [Formatos suportados para listas confiáveis e não-confiáveis no Guard Duty](https://docs.aws.amazon.com/guardduty/latest/ug/guardduty_upload-lists.html)
+
+
