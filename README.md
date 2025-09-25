@@ -1,5 +1,12 @@
 # SecEngAWSSep2025
 
+
+## Avaliação do curso
+- Acesse [aws.training](https://aws.training)
+- Clique em  "sign in" e faça log in com a mesma conta usada para acessar o material e laboratório
+- Vá no topo, à direita, em "Minha Conta", e então "Transcript", clique na seção de "Arquivado" (acesso direto nesta URL https://www.aws.training/Account/Transcript/Archived)
+- Deve estar aí um botão para avaliar o curso.
+
 ## Links de material didático e acesso às classes
 - [Link para entrada na reunião](https://awsvirtual.webex.com/awsvirtual/j.php?MTID=m8fb442b63a0890097a0b13f90bbd7104)
 - [Acesso ao ambiente de laboratório](https://us-east-1.student.classrooms.aws.training/class/ilt%23gzaKY6Bgic7HXmgfzNVnzC)
