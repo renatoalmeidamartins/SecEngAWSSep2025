@@ -86,3 +86,6 @@
 - [Usando EventBridge para filtrar eventos originados no GuardDuty](https://docs.aws.amazon.com/guardduty/latest/ug/guardduty_findings_eventbridge.html)
 - [Anuncio do suporte de eventos de parceiros integrados ao EventBridge](https://aws.amazon.com/blogs/aws/amazon-eventbridge-event-driven-aws-integration-for-your-saas-applications/)
 - [Anuncio do preview do Security Lake](https://aws.amazon.com/about-aws/whats-new/2022/11/amazon-security-lake-preview/)
+- [Queries pre-definidas no Athena, para consultas relacionadas a segurança - requer o deploy de um modelo do CloudFormation](https://docs.aws.amazon.com/vpc/latest/userguide/flow-logs-run-athena-query.html)
+- [Centralização de logs usando OpenSearch - solução de exemplo](https://aws.amazon.com/solutions/implementations/centralized-logging-with-opensearch)
+- [Inspeção de tráfego sob demanda - em resposta a um evento do Guard Duty](https://aws.amazon.com/blogs/networking-and-content-delivery/using-vpc-traffic-mirroring-to-monitor-and-secure-your-aws-infrastructure/)
