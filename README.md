@@ -21,6 +21,8 @@ As soluções abaixo têm desenho de arquitetura, repositório com o que impleme
 - [Centralização de logs usando OpenSearch - solução de exemplo](https://aws.amazon.com/solutions/implementations/centralized-logging-with-opensearch)
 - [Inspeção de tráfego sob demanda - em resposta a um evento do Guard Duty](https://aws.amazon.com/blogs/networking-and-content-delivery/using-vpc-traffic-mirroring-to-monitor-and-secure-your-aws-infrastructure/)
 
+## Links mostrados na classe, separados por dia
+Os links abaixo são funcionalidades, recursos e maior profundidade sobre os tópicos trabalhados em cada um dos três dias
 ### Links do dia 1
 - [Parodia de My shot, com Lambda reduzindo seu ops](https://www.youtube.com/watch?v=zMua0cuhFnc)
 - [Boas práticas para criação de OUs em umna organização](https://docs.aws.amazon.com/organizations/latest/userguide/orgs_manage_ous_best_practices.html)
